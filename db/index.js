@@ -8,4 +8,4 @@ class DB{
     }
     findAllEmployees(){
         return this.connection.promise().query("")
-    }
+    }}
